@@ -1,3 +1,12 @@
-# solnarc
+# SolnArc
+Technology Learnings Repo!
 
-Learnings Repo!
+## Mongo
+- Node
+- Python
+- .NET
+
+## Redis
+- Node
+- Python
+- .NET
