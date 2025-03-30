@@ -10,15 +10,15 @@
    git clone <repository-url>
    cd /workspaces/solnarc/node
    ```
-
-2. Install dependencies:
-   ```bash
-   npm install dotenv redis
-   ```
-
-3. Initialize a New package.json:
+   
+2. Initialize a New package.json:
    ```bash
     npm init -y
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install dotenv redis
    ```
 
 4. Configure environment variables:
