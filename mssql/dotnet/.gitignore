@@ -1,0 +1,9 @@
+.env
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.tmp
+*.bak
+*.swp
