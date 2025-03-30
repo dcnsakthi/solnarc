@@ -8,7 +8,7 @@
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd /workspaces/solnarc/node
+   cd /workspaces/solnarc/redis/node
    ```
    
 2. Initialize a New package.json:
@@ -22,7 +22,7 @@
    ```
 
 4. Configure environment variables:
-   - Create a `.env` file in the `/workspaces/solnarc/node` directory.
+   - Create a `.env` file in the `/workspaces/solnarc/redis/node` directory.
    - Add the following variables (update values as needed):
      ```
      USERNAME=default
@@ -38,4 +38,4 @@
    ```
 
 ## Expected Output
-The application will connect to Redis, set a key `foo` with the value `bar`, and log `bar` to the console.
+The application will connect to Redis, set a key `owner` with the value `nsakthi`, and log `nsakthi` to the console.
