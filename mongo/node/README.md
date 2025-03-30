@@ -1,4 +1,4 @@
-# Node.js Mongo Application
+# MongoDB Node Application
 
 ## Prerequisites
 1. Install [Node.js](https://nodejs.org/) (version 14 or higher recommended).
