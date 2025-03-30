@@ -6,6 +6,11 @@ Technology Learnings Repo!
 - Python
 - .NET
 
+## MSSQL
+- Node
+- Python
+- .NET
+
 ## Redis
 - Node
 - Python
