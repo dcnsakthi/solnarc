@@ -13,10 +13,15 @@
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm install dotenv redis
    ```
 
-3. Configure environment variables:
+3. Initialize a New package.json:
+   ```bash
+    npm init -y
+   ```
+
+4. Configure environment variables:
    - Create a `.env` file in the `/workspaces/solnarc/node` directory.
    - Add the following variables (update values as needed):
      ```
@@ -27,7 +32,7 @@
      DB=<your-redis-database>
      ```
 
-4. Run the application:
+5. Run the application:
    ```bash
    node app.js
    ```
